@@ -10,6 +10,10 @@
 let shareCodes = [
   '',//账号一的好友shareCode,不同好友中间用@符号隔开
   '',//账号二的好友shareCode，不同好友中间用@符号隔开
+  '',//账号三的好友shareCode，不同好友中间用@符号隔开
+  '',//账号四的好友shareCode，不同好友中间用@符号隔开
+  '',//账号五的好友shareCode，不同好友中间用@符号隔开
+  '',//账号六的好友shareCode，不同好友中间用@符号隔开
 ]
 // 判断github action里面是否有京喜工厂互助码
 if (process.env.DREAM_FACTORY_SHARE_CODES) {
