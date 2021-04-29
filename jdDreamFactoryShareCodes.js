@@ -10,9 +10,9 @@
 let shareCodes = [
   '',//账号一的好友shareCode,不同好友中间用@符号隔开
   '',//账号二的好友shareCode，不同好友中间用@符号隔开
-  '',//账号三的好友shareCode，不同好友中间用@符号隔开
-  '',//账号四的好友shareCode，不同好友中间用@符号隔开
-  '',//账号五的好友shareCode，不同好友中间用@符号隔开
+  '56b4X6r9ArmyAGp4YiW9Jw==@WeUx7kIdqDzBS2C4wPnFCw==@IOX9HIfJ0k_KoNfPPxui3A==',//账号三的好友shareCode，不同好友中间用@符号隔开
+  '56b4X6r9ArmyAGp4YiW9Jw==@WeUx7kIdqDzBS2C4wPnFCw==@IOX9HIfJ0k_KoNfPPxui3A==',//账号四的好友shareCode，不同好友中间用@符号隔开
+  '56b4X6r9ArmyAGp4YiW9Jw==@WeUx7kIdqDzBS2C4wPnFCw==@IOX9HIfJ0k_KoNfPPxui3A==',//账号五的好友shareCode，不同好友中间用@符号隔开
   '',//账号六的好友shareCode，不同好友中间用@符号隔开
 ]
 // 判断github action里面是否有京喜工厂互助码
